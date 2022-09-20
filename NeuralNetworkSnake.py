@@ -1,3 +1,4 @@
+#Margarita Sanchez
 
 import random as ran # los valores aleatorios
 import numpy as np # Calculos matematicos
